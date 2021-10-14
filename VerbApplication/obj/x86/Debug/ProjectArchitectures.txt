@@ -1,0 +1,1 @@
+C:\Repos\DesktopApplication\VerbApplication\VerbApplication.csproj;x86
